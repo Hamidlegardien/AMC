@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["𝗥𝗲𝗴𝗮𝗿𝗱𝗲 Les Caméras de surveillance"];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
