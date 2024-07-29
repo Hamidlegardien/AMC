@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [" ,Regarde {server_member} "];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
